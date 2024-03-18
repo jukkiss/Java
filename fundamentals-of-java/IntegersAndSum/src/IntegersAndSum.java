@@ -15,7 +15,7 @@ public class IntegersAndSum {
         int third = Integer.parseInt(scanner.nextLine());
 
         int sum = first + second + third;
-        int product = first * second * third;
+        int product = first * second * third; //MAke a variable called product, get the product by using simple math
         double average = sum / 3.0; // Using 3.0 to ensure floating point division
 
         System.out.println("The sum of the numbers is " + sum);
