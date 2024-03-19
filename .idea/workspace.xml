@@ -5,12 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f1bf02ad-e8f9-4f62-94db-9755cac8cf6a" name="Changes" comment="&quot;ready&quot;">
-      <change afterPath="$PROJECT_DIR$/fundamentals-of-java/FahrenheitToCelsius/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fundamentals-of-java/FahrenheitToCelsius/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fundamentals-of-java/FahrenheitToCelsius/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fundamentals-of-java/FahrenheitToCelsius/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fundamentals-of-java/FahrenheitToCelsius/FahrenheitToCelsius.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fundamentals-of-java/FahrenheitToCelsius/src/FahrenheitToCelsius.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fundamentals-of-java/ObsoleteMeasures/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fundamentals-of-java/ObsoleteMeasures/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fundamentals-of-java/ObsoleteMeasures/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fundamentals-of-java/ObsoleteMeasures/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fundamentals-of-java/ObsoleteMeasures/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fundamentals-of-java/ObsoleteMeasures/ObsoleteMeasures.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fundamentals-of-java/ObsoleteMeasures/src/ObsoleteMeasures.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
