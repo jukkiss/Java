@@ -11,8 +11,13 @@ public class IntegersAndSum {
         System.out.println("Give the third number: ");
         int third = Integer.parseInt(scanner.nextLine());
 
-        System.out.println("The sum of numbers is: " + (first + second + third));
-        System.out.println("The product of the numbers is: " + (first * second * third));
-        System.out.println("The average of the numbers is: " + (first * second * third / 3));
+        //Fixed to double
+        int sum = first + second + third;
+        int product = first * second * third;
+        double average = sum / 3.0;
+
+        System.out.println("The sum of numbers is: " + sum);
+        System.out.println("The product of the numbers is: " + product);
+        System.out.println("The average of the numbers is: " + average);
     }
 }
