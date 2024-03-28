@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0a2fa6b2-2d7b-4b8c-8a81-4fd896106db2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../RockPaperScissors/RockPaperScissors.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Simulation/1.1_Introduction_to_Simulation/CustomerClass/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Simulation/1.1_Introduction_to_Simulation/CustomerClass/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Simulation/1.1_Introduction_to_Simulation/CustomerClass/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Simulation/1.1_Introduction_to_Simulation/CustomerClass/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Simulation/1.1_Introduction_to_Simulation/CustomerClass/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Simulation/1.1_Introduction_to_Simulation/CustomerClass/CustomerClass.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Simulation/1.1_Introduction_to_Simulation/CustomerClass/src/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Simulation/1.1_Introduction_to_Simulation/CustomerClass/src/OrientationTask1_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Simulation/1.1_Introduction_to_Simulation/CustomerClass/src/OrientationTask1_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Simulation/1.1_Introduction_to_Simulation/PointOfService/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Simulation/1.1_Introduction_to_Simulation/PointOfService/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Simulation/1.1_Introduction_to_Simulation/PointOfService/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Simulation/1.1_Introduction_to_Simulation/PointOfService/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Simulation/1.1_Introduction_to_Simulation/PointOfService/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Simulation/1.1_Introduction_to_Simulation/PointOfService/PointOfService.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Simulation/1.1_Introduction_to_Simulation/PointOfService/src/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Simulation/1.1_Introduction_to_Simulation/PointOfService/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Simulation/1.1_Introduction_to_Simulation/PointOfService/src/ServicePoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/data-structures-and-interplay-of-objects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Book.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LibraryMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CarClassMod/CarClassMod.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffeeMaker/CoffeeMaker.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryListManager/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryListManager/.idea/copilot/chatSessions/00000000000.xd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryListManager/.idea/copilot/chatSessions/blobs/version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryListManager/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryListManager/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryListManager/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryListManager/GroceryListManager.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GroceryListManager/src/GroceryListManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoppingList/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoppingList/ShoppingList.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoppingList/src/GroceryListManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoppingList/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoppingList/src/ShoppingList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Television-class/Television-class.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RockPaperScissors/.idea/copilot/chatSessions/00000000000.xd" beforeDir="false" afterPath="$PROJECT_DIR$/../../RockPaperScissors/.idea/copilot/chatSessions/00000000000.xd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CarClass/.idea/copilot/chatSessions/00000000000.xd" beforeDir="false" afterPath="$PROJECT_DIR$/../CarClass/.idea/copilot/chatSessions/00000000000.xd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CarClassMod/.idea/copilot/chatSessions/00000000000.xd" beforeDir="false" afterPath="$PROJECT_DIR$/../CarClassMod/.idea/copilot/chatSessions/00000000000.xd" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2eJIKiPnCJJKO1nnZsxaGNklbRC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.LibraryMain.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/savel/Documents/metro-code/Java/data-structures-and-interplay-of-objects"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-5cd809f4" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a2fa6b2-2d7b-4b8c-8a81-4fd896106db2" name="Changes" comment="" />
+      <created>1711616194122</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711616194122</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

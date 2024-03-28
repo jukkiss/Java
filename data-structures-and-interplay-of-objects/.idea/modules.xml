@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CarClass/CarClass.iml" filepath="$PROJECT_DIR$/CarClass/CarClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CarClassMod/CarClassMod.iml" filepath="$PROJECT_DIR$/CarClassMod/CarClassMod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CoffeeMaker/CoffeeMaker.iml" filepath="$PROJECT_DIR$/CoffeeMaker/CoffeeMaker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GroceryListManager/GroceryListManager.iml" filepath="$PROJECT_DIR$/GroceryListManager/GroceryListManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShoppingList/ShoppingList.iml" filepath="$PROJECT_DIR$/ShoppingList/ShoppingList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Television-class/Television-class.iml" filepath="$PROJECT_DIR$/Television-class/Television-class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/data-structures-and-interplay-of-objects.iml" filepath="$PROJECT_DIR$/.idea/data-structures-and-interplay-of-objects.iml" />
+    </modules>
+  </component>
+</project>
