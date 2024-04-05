@@ -69,16 +69,10 @@ public class CarClassMod {
             return false;
         }
     }
-
-    // Method to disable cruise control
     public void turnCruiseControlOff() {
         this.cruiseControlOn = false;
         System.out.println("Cruise control turned off.");
     }
-
-    // Existing protected setter methods for speed and gasolineLevel...
-    // Existing getter methods...
-
 
     protected void setSpeed(double speed) {
         this.speed = speed;
