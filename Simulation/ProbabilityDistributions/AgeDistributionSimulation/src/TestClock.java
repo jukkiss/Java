@@ -1,6 +1,6 @@
 public class TestClock {
     public static void main(String[] args) {
-        ClockTwo clock = ClockTwo.getInstance();
+        Clock clock = Clock.getInstance();
 
         System.out.println("Current Time: " + clock.getTime());
 
