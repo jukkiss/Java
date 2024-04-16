@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/DataStreamsAndExceptions.iml" filepath="$PROJECT_DIR$/.idea/DataStreamsAndExceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FibonacciToCSV/FibonacciToCSV.iml" filepath="$PROJECT_DIR$/FibonacciToCSV/FibonacciToCSV.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReadCSVfromURL/ReadCSVfromURL.iml" filepath="$PROJECT_DIR$/ReadCSVfromURL/ReadCSVfromURL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SerializationOfCourseEnrollment/SerializationOfCourseEnrollment.iml" filepath="$PROJECT_DIR$/SerializationOfCourseEnrollment/SerializationOfCourseEnrollment.iml" />
+    </modules>
+  </component>
+</project>
