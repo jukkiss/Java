@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="32afba50-c943-42a3-aac8-43097ef67c9f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../ClassExplained/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassExplained/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassExplained/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassExplained/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassExplained/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassExplained/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassExplained/ClassExplained.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassExplained/src/AssociationExample/Opettaja.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassExplained/src/AssociationExample/Oppilas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassExplained/src/Auto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassExplained/src/AutoOhjelma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassExplained/src/Bicycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassExplained/src/CameraBody.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassExplained/src/CameraPart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassExplained/src/CarDemoArrayListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassExplained/src/CarDemoHashMapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassExplained/src/CarDemoTreeSetExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassExplained/src/ComparingObjects/AutoKaksi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassExplained/src/ComparingObjects/ComparingObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassExplained/src/ControlStructures/ControlStructureTraining.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassExplained/src/ControlStructures/ControlStructures.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassExplained/src/ControlStructures/DoWhileExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassExplained/src/ControlStructures/NestedLoopsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassExplained/src/ControlStructures/VowelOrNot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassExplained/src/ControlStructures/WhileLoopExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassExplained/src/ControlStructures/forLoopExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassExplained/src/ControlStructures/testikysymys.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassExplained/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassExplained/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassExplained/src/SahkoAuto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassExplained/src/SummaLuokkaTesti.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassExplained/src/SuperExample/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassExplained/src/SuperExample/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClassExplained/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../RockPaperScissors/RockPaperScissors.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/Simulation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1.1_Introduction_to_Simulation/CustomerClass/CustomerClass.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1.1_Introduction_to_Simulation/PointOfService/PointOfService.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AgeDistributionSimulation/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AgeDistributionSimulation/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AgeDistributionSimulation/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AgeDistributionSimulation/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AgeDistributionSimulation/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AgeDistributionSimulation/AgeDistributionSimulation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AgeDistributionSimulation/src/AgeDistributionSimulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AgeDistributionSimulation/src/ArrivalProcess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AgeDistributionSimulation/src/Clock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AgeDistributionSimulation/src/OrientationTask3point1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AgeDistributionSimulation/src/TestArrivalProcess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AgeDistributionSimulation/src/TestClock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OrientationTask3.7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrivalProcess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Clock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Event.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EventList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EventType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ServicePoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestSuite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProbabilityDistributions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/ProbabilityDistributions/AgeDistributionSimulation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/ProbabilityDistributions/Clock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/ProbabilityDistributions/OrientationTask3point1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/ProbabilityDistributions/TestClock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../advanced-java-concepts/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../advanced-java-concepts/.idea/advanced-java-concepts.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../advanced-java-concepts/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../advanced-java-concepts/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../advanced-java-concepts/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../advanced-java-concepts/Interface/InheritanceHierarchy/InheritanceHierarchy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../advanced-java-concepts/Interface/Interface/Interface.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../data-structures-and-interplay-of-objects/Bus/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../data-structures-and-interplay-of-objects/Bus/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../data-structures-and-interplay-of-objects/Bus/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../data-structures-and-interplay-of-objects/Bus/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../data-structures-and-interplay-of-objects/Bus/Bus.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../RockPaperScissors/.idea/copilot/chatSessions/00000000000.xd" beforeDir="false" afterPath="$PROJECT_DIR$/../../../RockPaperScissors/.idea/copilot/chatSessions/00000000000.xd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ThreePhaseSimulation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ThreePhaseSimulation/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../advanced-java-concepts/StaticVariablesAndMethods/library/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../advanced-java-concepts/StaticVariablesAndMethods/library/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../data-structures-and-interplay-of-objects/ShapeHierarchyAndPolymorphism/ShapeHierarchyAndPolymorphism/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../data-structures-and-interplay-of-objects/ShapeHierarchyAndPolymorphism/ShapeHierarchyAndPolymorphism/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "jukkiss"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/jukkiss/Java.git",
+    "accountId": "b966752b-053d-470c-b18e-1fcb772f099d"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2fBKRt1JZIlysUQummaLHFSVaJj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.TestSuite.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="32afba50-c943-42a3-aac8-43097ef67c9f" name="Changes" comment="" />
+      <created>1713269027274</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713269027274</updated>
+    </task>
+    <servers />
+  </component>
+</project>
