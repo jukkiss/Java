@@ -1,9 +1,9 @@
-package controller;
+package org.example.controller;
 
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
-import model.Currency;
-import model.CurrencyModel;
+import org.example.model.Currency;
+import org.example.model.CurrencyModel;
 
 public class CurrencyConverterController {
     private CurrencyModel model;

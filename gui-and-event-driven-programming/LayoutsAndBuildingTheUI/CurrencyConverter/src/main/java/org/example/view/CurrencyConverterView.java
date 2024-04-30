@@ -1,14 +1,14 @@
-package view;
+package org.example.view;
 
 import javafx.application.Application;
 import javafx.scene.Scene;
 import javafx.scene.control.*;
 import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
-import controller.CurrencyConverterController;
+import org.example.controller.CurrencyConverterController;
 
 
-import model.Currency;
+import org.example.model.Currency;
 
 public class CurrencyConverterView extends Application {
     private CurrencyConverterController controller;
@@ -50,7 +50,7 @@ public class CurrencyConverterView extends Application {
         root.getChildren().addAll(sourceLabel, sourceCurrency, targetLabel, targetCurrency, amountField, convertButton, resultField);
 
         Scene scene = new Scene(root, 400, 250);
-        scene.getStylesheets().add("Styles.css");  // Correct placement for applying CSS
+        scene.getStylesheets().add("Styles.css");
         primaryStage.setTitle("Currency Converter");
         primaryStage.setScene(scene);
         primaryStage.show();
