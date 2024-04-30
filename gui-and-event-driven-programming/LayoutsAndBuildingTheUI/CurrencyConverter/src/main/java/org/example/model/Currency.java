@@ -25,5 +25,10 @@ public class Currency {
     public double getRateToUSD() {
         return rateToUSD;
     }
+
+    @Override
+    public String toString() {
+        return abbreviation;
+    }
 }
 
