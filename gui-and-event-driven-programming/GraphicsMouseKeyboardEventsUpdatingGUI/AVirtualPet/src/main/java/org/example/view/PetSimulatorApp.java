@@ -1,4 +1,4 @@
-package org.example;
+package org.example.view;
 
 import javafx.application.Application;
 import javafx.scene.Scene;
@@ -6,7 +6,6 @@ import javafx.scene.layout.StackPane;
 import javafx.stage.Stage;
 import org.example.controller.PetController;
 import org.example.model.Pet;
-import org.example.view.PetView;
 
 
 public class PetSimulatorApp extends Application {
@@ -22,9 +21,5 @@ public class PetSimulatorApp extends Application {
         primaryStage.setTitle("Virtual Pet Simulator");
         primaryStage.setScene(scene);
         primaryStage.show();
-    }
-
-    public static void main(String[] args) {
-        launch(args);
     }
 }

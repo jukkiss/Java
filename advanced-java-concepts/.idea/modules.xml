@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Interface/InheritanceHierarchy/InheritanceHierarchy.iml" filepath="$PROJECT_DIR$/Interface/InheritanceHierarchy/InheritanceHierarchy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interface/Interface/Interface.iml" filepath="$PROJECT_DIR$/Interface/Interface/Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/advanced-java-concepts.iml" filepath="$PROJECT_DIR$/.idea/advanced-java-concepts.iml" />
+    </modules>
+  </component>
+</project>
