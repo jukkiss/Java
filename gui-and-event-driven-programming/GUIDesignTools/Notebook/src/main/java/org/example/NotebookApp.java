@@ -10,7 +10,7 @@ public class NotebookApp extends Application {
 
     @Override
     public void start(Stage stage) throws Exception {
-        Parent root = FXMLLoader.load(getClass().getResource("notebook.fxml"));
+        Parent root = FXMLLoader.load(getClass().getResource("NotebookView.fxml"));
         Scene scene = new Scene(root);
         stage.setTitle("Notebook Application");
         stage.setScene(scene);
