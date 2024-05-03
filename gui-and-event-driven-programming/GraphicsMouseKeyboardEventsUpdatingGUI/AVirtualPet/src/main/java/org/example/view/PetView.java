@@ -12,7 +12,7 @@ public class PetView {
     public PetView(double width, double height) {
         canvas = new Canvas(width, height);
         gc = canvas.getGraphicsContext2D();
-        petImage = new Image("pet1.png");  // Ensure you have an image at this path
+        petImage = new Image("pet1.png");
     }
 
     public Canvas getCanvas() {
