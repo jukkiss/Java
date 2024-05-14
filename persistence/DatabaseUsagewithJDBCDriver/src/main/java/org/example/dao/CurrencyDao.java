@@ -1,7 +1,7 @@
 package org.example.dao;
 
-import model.Currency;
-import datasource.MariaDbConnection;
+import org.example.model.Currency;
+import org.example.datasource.MariaDbConnection;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;

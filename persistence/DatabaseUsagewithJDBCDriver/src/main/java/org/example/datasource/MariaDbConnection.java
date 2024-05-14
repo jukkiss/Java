@@ -10,7 +10,7 @@ public class MariaDbConnection {
     public static Connection getConnection() {
         if (conn == null) {
             try {
-                conn = DriverManager.getConnection("jdbc:mariadb://localhost:3306/currency_db?user=user&password=password");
+                conn = DriverManager.getConnection("jdbc:mariadb://localhost:3306/currency_db?user=yourowndbusernamehere&password=andyourownpasswordhere");
             } catch (SQLException e) {
                 System.out.println("Connection failed: " + e.getMessage());
             }
